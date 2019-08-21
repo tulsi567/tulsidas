@@ -1,0 +1,13 @@
+<html>
+<head>
+<body>
+<h1>my first JavaScript</h1>
+<button onclick="myfuntion()">CLICK</button>
+<script>
+fution myfunction(){
+aluert("welcome");
+}
+</script>
+</body>
+</head>
+</html>
